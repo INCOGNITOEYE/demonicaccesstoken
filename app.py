@@ -1000,7 +1000,7 @@ html, body {
 
     <!-- ═══ TOP BAR ═══ -->
     <header class="app-header">
-        <div class="logo-3d"><span>NG</span></div>
+        <div class="logo-3d"><span>🌐</span></div>
         <div class="app-title">
             <h1>DEMONIC ACCESS</h1>
             <p>Premium Token</p>
